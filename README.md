@@ -1,2 +1,2 @@
-# abhishek-instaclone
+# cglp-html-static
 Created with CodeSandbox
